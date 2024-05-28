@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.692);
+}
+h1{
+    color: greenyellow;
+    text-align: center;
+    font-size: 50px;
+}
